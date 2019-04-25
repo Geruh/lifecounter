@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Life Counter</string>
+    <string name="playerOneLife">player 1 - LP: 20</string>
+    <string name="playerTwoLife">player 2 - LP: 20</string>
+    <string name="playerThreeLife">player 3 - LP: 20</string>
+    <string name="playerFourLife">player 4 - LP: 20</string>
 </resources>
