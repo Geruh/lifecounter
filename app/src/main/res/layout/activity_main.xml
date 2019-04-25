@@ -20,12 +20,12 @@
             android:layout_height="wrap_content"
             android:id="@+id/playerOneBtns">
         <Button
-                android:text="-1"
+                android:text="-"
                 android:layout_width="84dp"
                 android:layout_height="37dp"
                 android:id="@+id/p1MinusOne"/>
         <Button
-                android:text="+1"
+                android:text="+"
                 android:layout_width="84dp"
                 android:layout_height="37dp"
                 android:id="@+id/p1PlusOne"/>
@@ -53,12 +53,12 @@
             android:layout_height="wrap_content"
             android:id="@+id/playerTwoBtns">
         <Button
-                android:text="-1"
+                android:text="-"
                 android:layout_width="84dp"
                 android:layout_height="37dp"
                 android:id="@+id/p2MinusOne"/>
         <Button
-                android:text="+1"
+                android:text="+"
                 android:layout_width="84dp"
                 android:layout_height="37dp"
                 android:id="@+id/p2PlusOne"/>
@@ -86,12 +86,12 @@
             android:layout_height="wrap_content"
             android:id="@+id/playerThreeBtns">
         <Button
-                android:text="-1"
+                android:text="-"
                 android:layout_width="84dp"
                 android:layout_height="37dp"
                 android:id="@+id/p3MinusOne"/>
         <Button
-                android:text="+1"
+                android:text="+"
                 android:layout_width="84dp"
                 android:layout_height="37dp"
                 android:id="@+id/p3PlusOne"/>
@@ -118,12 +118,12 @@
             android:layout_height="wrap_content"
             android:id="@+id/playerFourBtns">
         <Button
-                android:text="-1"
+                android:text="-"
                 android:layout_width="84dp"
                 android:layout_height="37dp"
                 android:id="@+id/p4MinusOne"/>
         <Button
-                android:text="+1"
+                android:text="+"
                 android:layout_width="84dp"
                 android:layout_height="37dp"
                 android:id="@+id/p4PlusOne"/>
