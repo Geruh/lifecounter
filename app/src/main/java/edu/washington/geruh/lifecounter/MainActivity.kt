@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
         }
         var newScore = currentLifePoints + damage.toInt()
         if (newScore <= 0) {
-            results.text = "${player.take(1).toUpperCase() + player.substring(1,6) + " " + player.substring(6)} LOSES! "
+            results.text = "${player.take(1).toUpperCase() + player.substring(1,6) + " " + player.substring(6)} LOSES!"
         }
         currentPlayerLP.text = currentPlayerLP.text.substring(0, 15) + (newScore)
     }
